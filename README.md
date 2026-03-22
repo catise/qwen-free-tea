@@ -2,12 +2,12 @@
 
 5 分钟时间，300 行代码，从 0 开始，实现千问点奶茶 AI Agent。
 
-详细过程见[文字稿](https://catise.me/post/2026/qwen-free-tea)
+详细过程见 [文字稿](https://catise.me/post/2026/qwen-free-tea)
 
 效果：
 
-<video width="400" controls muted autoplay loop src="public/buy-product-success.mp4">
-</video>
+https://github.com/user-attachments/assets/a4b5c5f5-fec6-4ba9-9513-e72812f7503c
+
 
 ## 运行项目
 
